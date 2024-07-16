@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.19.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.10.3",
+    "nodemon": "^3.1.4"
+  },
+  "name": "projectping1.2",
+  "version": "1.0.0",
+  "main": "created_tb.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
